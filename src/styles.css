@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+body{
+    font-family: 'Nunito', sans-serif;
+}
+.jumbotron{
+    background-color:#02A9EA;
+    color: white;
+}
+input{
+    text-align: center;
+    width:50%;
+    border:1px #ccc solid;
+    margin:20px 0px;
+    padding:10px 5px ;
+}
+.todoListMain{
+    text-align: center;
+}
+
+p{
+    font-size:12px;
+    color:red;
+}
+.custom{
+    font-size:20px;
+    font-weight:700
+}
